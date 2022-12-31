@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672138443 source:d:\tel u\semester 3\struktur data\tubes multi n-m\tubes_multi_n-m\rekrutmen.cpp
+	"REKRUTMEN.h"
+
+1672128309 d:\tel u\semester 3\struktur data\tubes multi n-m\tubes_multi_n-m\rekrutmen.h
+	<iostream>
+
+1672131110 source:d:\tel u\semester 3\struktur data\tubes multi n-m\tubes_multi_n-m\main.cpp
+	"REKRUTMEN.h"
+
+1672458596 source:c:\users\lenovo\downloads\tubes multi n-m_rekrutman\tubes_multi_n-m\main.cpp
+	"REKRUTMEN.h"
+
+1672456501 c:\users\lenovo\downloads\tubes multi n-m_rekrutman\tubes_multi_n-m\rekrutmen.h
+	<iostream>
+
+1672458349 source:c:\users\lenovo\downloads\tubes multi n-m_rekrutman\tubes_multi_n-m\rekrutmen.cpp
+	"REKRUTMEN.h"
+
