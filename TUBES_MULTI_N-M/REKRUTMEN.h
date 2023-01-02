@@ -61,7 +61,7 @@ void deleteFirstPekerjaan(listPelamar, listPekerjaan &L2);
 /**Print List*/
 void printPelamar(listPelamar L1);
 void printPekerjaan(listPekerjaan L2);
-void printPekerjaanWithInst(listPelamar L1, listPekerjaan L2);
+void printPekerjaandenganPelamar(listPelamar L1, listPekerjaan L2);
 void findPelamar(listPelamar L1, listPekerjaan L2, infotype X);
 /**Searching*/
 addr1 searchPelamar(listPelamar L1, infotype X);
