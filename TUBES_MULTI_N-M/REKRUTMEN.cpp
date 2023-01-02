@@ -212,7 +212,7 @@ void findPelamar(listPelamar L1, listPekerjaan L2, infotype X){
     addr3 R;
 
     if (Q != NIL){
-        cout << "\nPekerjaan " << info(Q) << " diajarkan oleh : " << endl;
+        cout << "\nPekerjaan " << info(Q) << " dilamar oleh : " << endl;
         P = first(L1);
         while (P != NIL){
             R = firstR(P);
@@ -302,9 +302,9 @@ void menuPilihan(int pil, listPelamar &L1, listPekerjaan&L2){
                  break;
         case 7 : printPekerjaan(L2);
                  break;
-        case 8 : printPekerjaanWithInst(L1,L2);
+        case 8 : printPekerjaandenganPelamar(L1,L2);
                  break;
-        case 9 : cout << "\nMasukkan Nama Pelamar yang ingin dicari Pekerjaan yang diajarnya : ";
+        case 9 : cout << "\nMasukkan Nama Pelamar yang ingin dicari Pekerjaan yang dipilihnya : ";
                  cin >> namaPelamar;
                  findPelamar(L1,L2,namaPelamar);
                  break;
